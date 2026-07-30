@@ -1,0 +1,33 @@
+version: 2
+updates:
+  - package-ecosystem: gradle
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      android-toolchain:
+        patterns:
+          - "com.android.*"
+          - "org.jetbrains.kotlin.*"
+          - "com.google.devtools.ksp"
+          - "com.google.dagger:*"
+      androidx:
+        patterns:
+          - "androidx.*"
+      media3:
+        patterns:
+          - "androidx.media3:*"
+      testing:
+        patterns:
+          - "junit:*"
+          - "androidx.test*"
+          - "com.squareup.okhttp3:mockwebserver"
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      github-actions:
+        patterns:
+          - "*"

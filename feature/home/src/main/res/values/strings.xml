@@ -1,0 +1,5 @@
+<resources>
+    <string name="home_greeting">Listening on %1$s</string>
+    <string name="recently_added">Recently added</string>
+    <string name="home_empty">Your last synchronized library will appear here.</string>
+</resources>

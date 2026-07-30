@@ -1,0 +1,17 @@
+<resources>
+    <string name="settings_back">Back</string>
+    <string name="settings_title">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="server">Server</string>
+    <string name="server_version">Server version</string>
+    <string name="api_version">Subsonic API</string>
+    <string name="connection">Connection</string>
+    <string name="capabilities">Capabilities</string>
+    <string name="unknown">Unknown</string>
+    <string name="none_reported">None reported</string>
+    <string name="insecure_http">Insecure HTTP — trusted local network only</string>
+    <string name="https">HTTPS with system certificate validation</string>
+    <string name="privacy_summary">KoalaMusic has no analytics or cloud account. Normal traffic goes only to this server. Diagnostics are manual and sanitized.</string>
+    <string name="refresh_library">Refresh library</string>
+    <string name="remove_profile">Remove profile and credentials</string>
+</resources>

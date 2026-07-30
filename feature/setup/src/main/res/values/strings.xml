@@ -1,0 +1,27 @@
+<resources>
+    <string name="setup_title">Your music, your server</string>
+    <string name="setup_subtitle">Connect KoalaMusic to an OpenSubsonic server. Navidrome receives primary compatibility testing.</string>
+    <string name="server_url">Server URL</string>
+    <string name="server_url_hint">HTTPS is required unless local HTTP is explicitly enabled.</string>
+    <string name="display_name">Profile name (optional)</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="api_key">API key</string>
+    <string name="allow_http">Allow insecure local HTTP</string>
+    <string name="allow_http_supporting">Credentials and music can be intercepted on an untrusted network.</string>
+    <string name="connect">Connect and sync</string>
+    <string name="connecting_and_syncing">Testing the server and preparing your library…</string>
+    <string name="insecure_http_title">Send credentials without encryption?</string>
+    <string name="insecure_http_message">This profile uses HTTP. Anyone able to observe this network may read your credentials and music traffic. Continue only on a trusted local network.</string>
+    <string name="connect_insecurely">Continue with HTTP</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_malformed_url">Enter a valid server address.</string>
+    <string name="error_http_not_allowed">Enable the local HTTP option or use HTTPS.</string>
+    <string name="error_authentication">The server rejected these credentials.</string>
+    <string name="error_auth_unsupported">The server does not support this authentication method.</string>
+    <string name="error_dns">The server name could not be found.</string>
+    <string name="error_timeout">The server took too long to respond.</string>
+    <string name="error_refused">The server refused the connection.</string>
+    <string name="error_tls">The secure connection or certificate is invalid.</string>
+    <string name="error_server">Connection failed (%1$s). Your profile was not saved.</string>
+</resources>

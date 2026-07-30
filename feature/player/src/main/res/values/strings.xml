@@ -1,0 +1,22 @@
+<resources>
+    <string name="player_back">Back</string>
+    <string name="nothing_playing">Nothing playing</string>
+    <string name="previous">Previous</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="shuffle_on">Shuffle on</string>
+    <string name="shuffle_off">Shuffle off</string>
+    <string name="repeat_off">Repeat off</string>
+    <string name="repeat_all">Repeat queue</string>
+    <string name="repeat_one">Repeat track</string>
+    <string name="playback_error">Playback error: %1$s</string>
+    <string name="queue_title">Queue (%1$d)</string>
+    <string name="queue_empty">Nothing is queued.</string>
+    <string name="clear_queue">Clear</string>
+    <string name="queue_actions">Actions</string>
+    <string name="now_playing">Playing: %1$s</string>
+    <string name="move_up">Move up</string>
+    <string name="move_down">Move down</string>
+    <string name="remove_from_queue">Remove from queue</string>
+</resources>

@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+.idea/
+.kotlin/
+build/
+**/build/
+local.properties
+captures/
+.DS_Store
+design/icon-concepts/
+android-signing.env
+*.jks
+*.keystore
+keystore.properties
