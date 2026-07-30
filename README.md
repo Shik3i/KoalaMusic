@@ -34,4 +34,4 @@ Release-key recovery and the signed GitHub APK/AAB workflow are documented in
 
 ## License
 
-GPL-3.0-or-later. See [`LICENSE`](LICENSE).
+MIT. See [`LICENSE`](LICENSE).

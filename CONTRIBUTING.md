@@ -15,4 +15,4 @@ New dependencies require an official-source stability check and an update to
 behavior needs fixtures, redaction tests, and failure-path coverage. Schema
 changes require Room migrations after the first public release.
 
-All contributions are licensed under GPL-3.0-or-later.
+All contributions are licensed under the MIT License.
